@@ -1,0 +1,18 @@
+button {
+   color: white;
+   background-color: skyblue;
+   font-style: italic;
+   font-family: Arial, sans-serif;
+   font-weight: bold;
+   padding: 10px 18px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+   text-decoration: none;
+}
+
+main p {
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
