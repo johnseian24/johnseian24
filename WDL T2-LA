@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>WDL T2-LA1/ADL T2-LA1</title>
+        <link rel="stylesheet" href="style.css">
+        <style>
+            
+        a{
+            background-color: lightcoral;
+            padding: 5px 10px;
+            text-decoration: none;
+            color: white;
+         }
+        #special-heading {
+            color: red;
+            font-size: 25px;
+
+        }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to WDL T2-lA1/ ADL T2-lA1</h1>
+        </header>
+
+        <main>
+            <p>This is the main content of the page.</p>
+            <a href="https://WWW.google.com">google</a>
+            <a href="https://WWW.facebook.com" style="color:grey;">facebook</a>
+            <a href="htt://WWW.youtube.con">youtube</a>
+            <P id="special-heading">special-heading</P>
+        </main>
+
+        <footer>
+            <p>Copy; 2024 My Website</p>
+        </footer>
+    </body>
+</html>
