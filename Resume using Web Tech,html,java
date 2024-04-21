@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <link rel="css/styles.css">
+</head>
+
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#achievements">Achievements</a></li>
+                <li><a href="#trainings">Trainings</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+    <section class="hero">
+        <h1>Your Name</h1>
+        <p>Web Developer</p>
+    </section>
+
+    <main>
+       
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Responsive Design</li>
+               
+            </ul>
+        </section>
+
+        <section id="achievements">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Completed XYZ Web Development Course</li>
+                <li>Received Award for Best Web Design</li>
+            </ul>
+        </section>
+
+        <section id="trainings">
+            <h2>Trainings</h2>
+            <ul>
+                <li>Front-End Web Development Course - ABC institute</li>
+                <li>Advanced CSS Techniques Workshop - Johnrey Perilla</li>
+            </ul>
+        </section>
+    </main>
+
+    <aside>
+        <img src="professional_photo.jpg" alt="Professional Portrait">
+    </aside>
+
+    <script src="js/script.js"></script>
+</body>
+
+</html>
