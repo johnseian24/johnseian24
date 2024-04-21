@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+< lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Resume</title>
+    <link rel="/batin/styles.css" href="/batin/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#achievements">Achievements</a></li>
+                <li><a href="#trainings">Trainings</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="hero">
+            <h1>Your Name</h1>
+            <p>Web Developer</p>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>C++</li>
+                <li>JavaScript</li>
+                <!-- Add more skills as necessary -->
+            </ul>
+        </section>
+        <section id="achievements">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Completed XYZ Project</li>
+                <li>Received Employee of the Month Award</li>
+                <!-- Add more achievements as necessary -->
+            </ul>
+        </section>
+        <section id="trainings">
+            <h2>Trainings</h2>
+            <ul>
+                <li>Frontend Development Course - ABC Institute</li>
+                <li>Mobile App Development  - Jonathan Ceneza</li>
+                <!-- Add more trainings as necessary -->
+            </ul>
+        </section>
+        <aside>
+            <img src="/batin/FB_IMG_1712373700107.jpg" alt="/portrait ">
+        </aside>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
