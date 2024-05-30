@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+   Welcome <?php echo $_GET["name"]; ?><br>
+   Your email address is: <?php echo$_GET["email"];?><br>
+   Your Year is: <?php echo$_GET["year"];?><br>
+   Your Course is: <?php echo$_GET["course"];?><br>
+   Your Section is: <?php echo$_GET["section"];?><br>
+   Your Birthdate is: <?php echo$_GET["birthdate"];?><br>
+</body>
+</html>
