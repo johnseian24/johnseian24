@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @johnseian24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-johnseian24/johnseian24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+let name = prompt ("John Seian Valdez:");
+let address = prompt ("Vigan City Ilocos Sur:");
+let age = prompt ("Im 23 Years Old:");
+let classRole = prompt("Student):");
+let course = prompt ("Enter your Course
+(BSCS:") ;
+// Validate course selection
+if (course === "BSCS" || course ===
+"BSM" || course === "BAEL") 
+// Check the class role within the
+selected course
+if (classRole === "Officer") 
+/I Loop to print the user's name
+based on 1/4 of the age
+for (let i = 0; i‹
+Math. floor (age / 4); itt) 
+console.log ("Officer: " +
+name );
+else if （classRole ＝==
+"Student" )
+1I Loop to print the user's name based on 1/4 of the age
+for (let i= 0; i‹
+Math. floor (age / 4);1++)1
+console. log ("Student: " +
+name);+｝
+else if（classRole ==="Teacher")
+｛/I Loop to print the user's name
+based on 1/4 of the age for let d 0；i<Math. floor (age /1++） 
+console.log ("Teacher: " +
+name );
+else 
+// Fallback for undefined class
+role
+console. log ("Class role not
+recognized. Please input Officer, Student, or Teacher.");｝ 
+else
+｛ // Fallback for undefined course
+console.log ("Course not found.
+Please input BSCS, BSM, or BAEL.");｝
