@@ -1,0 +1,13 @@
+// User Information Collection
+
+// Variables to store user information
+let fullname = "John Seian Valdez";
+let age = 23;
+let favoriteNumber = 7;
+let favoriteColor = "Black";
+
+// log user information to the console 
+console.log("Full Name:", fullName);
+console.log("Age;", age);
+console.log("Favorite Number;", favoriteNumber);
+console.log("Favorite Color", favoriteColor);
